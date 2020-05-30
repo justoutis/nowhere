@@ -28,9 +28,14 @@ baseurl: "/nowhere" # the subpath of your site, e.g. /blog
 url: "https://justoutis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+#Theme Tweaks
+header_pages:
+  - index.markdown
+  - about.markdown
+footer: 'email me xxxx@yyyy.com'
 
 # Build settings
-theme: minima
+theme: jekyll-theme-console
 plugins:
   - jekyll-feed
 
