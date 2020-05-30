@@ -6,4 +6,4 @@ categories: jekyll update
 
 ---
 
-This is my pretty simple blog in which I will write about whatever's interesting to me at the moment
+This is my pretty simple blog in which I will write about whatever's interesting to me at the moment.
